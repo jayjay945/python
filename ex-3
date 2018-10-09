@@ -1,9 +1,9 @@
 #!/usr/bin/python
  #coding=utf-8
 
-counter = 100
-miles = 1000.0
-name = "Jayjay"
+counter = 100    #宣告int
+miles = 1000.0   #宣告浮點
+name = "Jayjay"  #宣告string
 print counter
 print miles
 print name
