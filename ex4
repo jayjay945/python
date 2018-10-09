@@ -1,0 +1,17 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+flag = False
+name = raw_input("Enter your name:")
+
+if (name=="bill"):
+  flag = True
+  print "welcome boss"
+else:
+  flag = True
+  print name
+  
+if (flag):
+  print name,"is my family!"
+else:
+  print "who are you"
